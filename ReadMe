@@ -1,0 +1,9 @@
+usage:
+
+git clone https://github.com/jaserjasar/connect.git
+
+cd connect
+
+python connect.py
+
+enjoy
